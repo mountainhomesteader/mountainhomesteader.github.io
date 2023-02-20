@@ -3,10 +3,65 @@
     <title>Mountain Homesteader</title>
     <link href="https://mountainhomesteader.net/feed.xml" rel="self" />
     <link href="https://mountainhomesteader.net" />
-    <updated>1969-12-31T17:00:00-07:00</updated>
+    <updated>2023-02-20T10:09:02-07:00</updated>
     <author>
         <name>John Galt</name>
     </author>
     <id>https://mountainhomesteader.net</id>
 
+    <entry>
+        <title>Running Electrical Wires on Top of Roof Trusses</title>
+        <author>
+            <name>John Galt</name>
+        </author>
+        <link href="https://mountainhomesteader.net/running-electrical-wires-on-top-of-roof-trusses.html"/>
+        <id>https://mountainhomesteader.net/running-electrical-wires-on-top-of-roof-trusses.html</id>
+
+        <updated>2023-02-20T10:09:02-07:00</updated>
+            <summary>
+                <![CDATA[
+                    As we were working on our house today, we noticed that we needed to add a three-way switch in the living room for the lights.&nbsp; To run the wires the obvious choice was to go up and through the roof trusses. But you can't simply&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    As we were working on our house today, we noticed that we needed to add a three-way switch in the living room for the lights.&nbsp; To run the wires the obvious choice was to go up and through the roof trusses.
+  </p>
+
+  <p>
+    But you can't simply bore holes through roof trusses--they're engineered.&nbsp; That's especially true for ours given that they're 2x4 roof trusses.&nbsp; I didn't feel good about boring holes through them even if our engineer would approve it.&nbsp;&nbsp;
+  </p>
+
+  <p>
+    So the question became, "how do we run these wires?"&nbsp; There are a few different ways to do it safely and in a code compliant manner for a non-inhabited area.&nbsp;
+  </p>
+
+  <p>
+    If the area that you need to take the wire to is parallel with the start and end of the run, that's easy.&nbsp; You just staple the wire to the side of the truss.&nbsp; If not, it's a bit more complicated.
+  </p>
+
+  <p>
+    If you need to run the wire perpendicular to the run of the trusses, you might need to protect the wire.&nbsp; From what I read of the code (though check for yourself obviously), you only need to protect the wiring once you get beyond six feet away from the entrance to the attic.&nbsp; Personally, I would protect it regardless given that you're going to be up there moving lights around, messing with insulation, and who knows what else later.&nbsp;&nbsp;
+  </p>
+
+  <p>
+    One way to protect it is to run boards on each side of the wire so that you can't step on it.&nbsp; I would suggest 2x4s given that they can take the full weight of a person wheres a one-by can't always do that when the trusses are on 24" centers (very common).&nbsp;&nbsp;
+  </p>
+
+  <p>
+    Another way to protect the wire is to run the wire up the truss and then staple the wire to the underside of the top chord of the truss (basically you're running it on the attic ceiling).&nbsp; That way you'll never step on it.&nbsp;&nbsp;
+  </p>
+
+  <p>
+    Lastly, you can run the wires close to the V where the bottom and top truss chords meet where the truss sits on the wall (one end).&nbsp; However, you don't want to run the wires directly on top of the wall that the truss sits on given that you'll undoubtedly want to drill through the top plate of that wall to run wires through it.&nbsp; Bring it back to the interior 6 inches to a foot, which should be enough to protect it from someone stepping on top of it.&nbsp;&nbsp;
+  </p>
+
+  <p>
+    There might be another way if you're on the second story or if you built over a crawlspace or have floor joists on your first story.&nbsp; In our case, we have floor joists and the easiest way to protect the wire was to run the wire down into the floor joists and then bring it back up in the other location.&nbsp; This will likely work in most, but not all, situations.&nbsp;&nbsp;
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
